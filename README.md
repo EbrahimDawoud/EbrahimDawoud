@@ -3,9 +3,12 @@
 I am a passionate  CS graduate and ITI 9-months trainee , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="420" height="200" margin-top="-10" align="right" border-raduis="25">
 
 ![<EbrahimDawoud>'s Stats](https://github-readme-stats.vercel.app/api?username=EbrahimDawoud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="420" height="200" margin-top="-10" align="right" border-raduis="25">
+
+
+
 
 
 ## 🚀 About Me
