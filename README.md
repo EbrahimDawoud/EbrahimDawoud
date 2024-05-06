@@ -9,7 +9,8 @@ I am a passionate  CS graduate and ITI 9-months trainee , driven by a curiosity 
 - 🌐 Proud member of the  ITI 9-months program.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,express,asp,git,node,postman,ts,csharp,sqlserver,redux,sass)](https://skillicons.dev)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development with ASP.NET
