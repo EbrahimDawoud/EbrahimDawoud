@@ -12,21 +12,25 @@ I am a passionate  CS graduate and ITI 9-months trainee , driven by a curiosity 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Learning Full Stack Web Development with ASP.NET
+  - Mastering ASP.NET MVC for robust web application architecture.
+  - Delving into Blazor for interactive and modern web UIs using C#.
+  - Utilizing ASP.NET Core Identity for secure user authentication and authorization.
+  - Styling with Bootstrap to create sleek, responsive layouts.
+  - Building RESTful APIs with ASP.NET Web API for seamless server-client integration.
+  - Managing data with Entity Framework for efficient ORM-based database handling.
+  - Implementing SQL Server for powerful and reliable database solutions.
+  - Integrating Angular for rich and dynamic client-side functionalities.
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/ebrahim-osama-dawood))
+- Connect with me on <a href="https://www.linkedin.com/in/ebrahim-osama-dawood" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" style="width: 20px; height: 20px;">
+</a>
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
