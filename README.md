@@ -2,14 +2,22 @@
 
 I am a passionate  CS graduate and ITI 9-months trainee , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<EbrahimDawoud>'s Stats](https://github-readme-stats.vercel.app/api?username=EbrahimDawoud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<!--
+
+![<EbrahimDawoud>'s Stats](https://github-readme-stats.vercel.app/api?username=EbrahimDawoud&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+-->
 ## 🚀 About Me
 
 - 🌐 Proud member of the  ITI 9-months program.
+## 📬 Get in Touch
+
+- Connect with me on <a href="https://www.linkedin.com/in/ebrahim-osama-dawood" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" style="width: 20px; height: 20px;">
+</a>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,express,asp,git,node,postman,ts,csharp,sqlserver,redux,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bootstrap,express,git,node,postman,ts,csharp,sqlserver,redux,sass)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -23,15 +31,6 @@ I am a passionate  CS graduate and ITI 9-months trainee , driven by a curiosity 
   - Implementing SQL Server for powerful and reliable database solutions.
   - Integrating Angular for rich and dynamic client-side functionalities.
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-
-
-
-## 📬 Get in Touch
-
-- Connect with me on <a href="https://www.linkedin.com/in/ebrahim-osama-dawood" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" style="width: 20px; height: 20px;">
-</a>
-
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
